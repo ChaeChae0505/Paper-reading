@@ -11,6 +11,9 @@
 - Image Segmentation Using Deep learning A survey [review](https://github.com/ChaeChae0505/TIL-learning/issues/4)
 - Self-supervised Visual Feature Learning with Deep Neural Networks: A Survey [paper](https://arxiv.org/pdf/1902.06162.pdf)
 
+### Transformer
+- Attention is all you need
+- AN IMAGE IS WORTH 16X16 WORDS:TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE
 
 ### ETC
 - Zachary Teed_Tangent Space Backpropagation for 3D Transformation Groups
