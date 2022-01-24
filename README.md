@@ -19,6 +19,16 @@
 - Zachary Teed_Tangent Space Backpropagation for 3D Transformation Groups
 
 
+
+---
+
+## Follow 하기 좋은 연구자들
+- Tomasz Malisiewicz : superglue저자 + slam 관련 [Google scholar](https://scholar.google.com/citations?hl=en&user=RCTeTV0AAAAJ&view_op=list_works&citft=1&email_for_op=chaey62%40gmail.com&gmla=AJsN-F7nXs0r6rixYQ1P9rBpNbNrDLESCgHa52b4WrYbqUFxgniQ2uUranJdBr61Kdz64BzdNhRIv3u4T8t0nUmkSrvhAUuDZu5Hc86CxSYdHMxtKUC2FZu4TzY8c2QNpFH7RBiH2_tWpqXuAJmENLgbgtW53qw6_uc7giSxGmT8dNcP7PRcwjNpvsh8nVqzj2HRLhldSuzoNqqypQHBaI-XqXnRVpGYYBN7jple3ErRsfdDMdSuvDg)
+- 
+
+
+
+
 ---
 ## ROS2 
 - issues >  closed
@@ -26,3 +36,5 @@
 ---
 ### Reading paper 참고
 - https://github.com/chullhwan-song/Reading-Paper
+
+
