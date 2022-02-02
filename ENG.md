@@ -1,0 +1,1 @@
+- comprehensive : 이해력이 있는, 포괄적인
