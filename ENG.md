@@ -9,3 +9,10 @@
 - For instance : 예를 들어
 - In other words : 다시 말해서, 달리 말해서
 - Inspired by : ~에서 영감을 받다
+
+
+
+## Monoloco(2019)
+- ambiguity : 모호한
+- intervals : 간격
+- tailored : 형 ) 잘 딱 맞도록
