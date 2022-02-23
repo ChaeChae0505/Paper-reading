@@ -3,7 +3,7 @@
 - occlusion or truncation : 가려지거나 잘린 개체를 의미
 - canonical : 형) 정본에 속하는, 교회법에 따른, 표준이 되는 
 - canonical form : 기본형, 원형  
-
+- Futuremore : 뿐만아니라, 더욱이
 
 
 - For instance : 예를 들어
