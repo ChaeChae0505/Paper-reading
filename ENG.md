@@ -16,3 +16,8 @@
 - ambiguity : 모호한
 - intervals : 간격
 - tailored : 형 ) 잘 딱 맞도록
+
+
+## Deep Object Pose Estimation for Semantic Robotic Grasping of Household Objects
+- photorealistic : 사실적인
+- 
