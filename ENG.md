@@ -20,4 +20,8 @@
 
 ## Deep Object Pose Estimation for Semantic Robotic Grasping of Household Objects
 - photorealistic : 사실적인
-- 
+
+
+
+## Vision
+- insufﬁcient : 불충분한
