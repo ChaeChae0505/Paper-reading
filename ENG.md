@@ -23,5 +23,7 @@
 
 
 
-## Vision
+## Vision-based grasping (2019)
 - insufﬁcient : 불충분한
+- concrete : 형)구체적인, 사실에 의거한
+- primitive : 기초요소
