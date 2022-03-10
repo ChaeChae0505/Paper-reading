@@ -27,3 +27,8 @@
 - insufﬁcient : 불충분한
 - concrete : 형)구체적인, 사실에 의거한
 - primitive : 기초요소
+
+
+
+
+- novel : 형) 새로운, 신기한
