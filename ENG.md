@@ -33,3 +33,8 @@
 
 - novel : 형) 새로운, 신기한
 - Polyhedral : 형) 다면체의
+
+
+
+## Learning Synergies between Pushing and Grasping with Self-supervised Deep Reinforcement Learning
+- prehensile : 형) 물건을 잡을 수 있는
