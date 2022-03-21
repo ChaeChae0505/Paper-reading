@@ -38,3 +38,9 @@
 
 ## Learning Synergies between Pushing and Grasping with Self-supervised Deep Reinforcement Learning
 - prehensile : 형) 물건을 잡을 수 있는
+
+
+## RL
+- invisible : 보이지 않는 무형의
+- finite : 형) 한정된 , 유한한
+- exploration : 명) 탐사, 탐구
