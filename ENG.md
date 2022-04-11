@@ -44,3 +44,8 @@
 - invisible : 보이지 않는 무형의
 - finite : 형) 한정된 , 유한한
 - exploration : 명) 탐사, 탐구
+
+
+
+## Social aware
+- attempted to : ~하려고 시도하다
