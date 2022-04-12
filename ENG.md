@@ -49,3 +49,7 @@
 
 ## Social aware
 - attempted to : ~하려고 시도하다
+
+
+## Human motion trajectory prediction: a survey
+- taxonomy : 분류학, 분류체계
