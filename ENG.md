@@ -53,3 +53,8 @@
 
 ## Human motion trajectory prediction: a survey
 - taxonomy : 분류학, 분류체계
+
+
+
+- sufficient : 형) 충분한 
+- reciprocal : 형) 상호간의
