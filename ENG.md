@@ -58,3 +58,5 @@
 
 - sufficient : 형) 충분한 
 - reciprocal : 형) 상호간의
+- corridor : 명) 복도, 회랑, 통로
+- alleviate : 동) 완화하다
