@@ -22,17 +22,6 @@
 ### ETC
 - Zachary Teed_Tangent Space Backpropagation for 3D Transformation Groups
 
-### Re-identification
-1. Learning Disentangled Representation for Robust Person Re-identification
-2. Deep Learning for Person Re-identification: A Survey and Outlook 
- 
-### Re-identification and MOT
-1. Real-time Multiple People Tracking with Deeply Learned Candidate Selection and Person Re-Identification 
-2. Online Multi-Object Tracking with Unsupervised Re-Identification Learning and Occlusion Estimation\
- 
- 
-- Face Recognition survey
-- A survey of face recognition techniques under occlusion
 
 ---
 
