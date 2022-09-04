@@ -22,13 +22,23 @@
 ### ETC
 - Zachary Teed_Tangent Space Backpropagation for 3D Transformation Groups
 
-
+### Re-identification
+1. Learning Disentangled Representation for Robust Person Re-identification
+2. Deep Learning for Person Re-identification: A Survey and Outlook 
+ 
+### Re-identification and MOT
+1. Real-time Multiple People Tracking with Deeply Learned Candidate Selection and Person Re-Identification 
+2. Online Multi-Object Tracking with Unsupervised Re-Identification Learning and Occlusion Estimation\
+ 
+ 
+- Face Recognition survey
+- A survey of face recognition techniques under occlusion
 
 ---
 
 ## Follow 하기 좋은 연구자들
 - Tomasz Malisiewicz : superglue저자 + slam 관련 [Google scholar](https://scholar.google.com/citations?hl=en&user=RCTeTV0AAAAJ&view_op=list_works&citft=1&email_for_op=chaey62%40gmail.com&gmla=AJsN-F7nXs0r6rixYQ1P9rBpNbNrDLESCgHa52b4WrYbqUFxgniQ2uUranJdBr61Kdz64BzdNhRIv3u4T8t0nUmkSrvhAUuDZu5Hc86CxSYdHMxtKUC2FZu4TzY8c2QNpFH7RBiH2_tWpqXuAJmENLgbgtW53qw6_uc7giSxGmT8dNcP7PRcwjNpvsh8nVqzj2HRLhldSuzoNqqypQHBaI-XqXnRVpGYYBN7jple3ErRsfdDMdSuvDg)
-- 
+
 
 
 
